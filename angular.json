@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "estudo-de-caso"
+    }
+  },
+  "defaultProject": "estudo-de-caso",
+  "cli": {
+    "analytics": "f9fb49c9-93fe-480d-933b-4410edc49ffb"
+  }
 }
